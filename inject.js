@@ -2,6 +2,8 @@
  * After you log into YES,
  * 1. navigate to Class Cart
  * 2. inject the following script to browser
+ * 3. wait for the script to register all classes for you
+ *    (no need to click submit)
  */
 
 var COMMODORE_ID = '000' + location.href.replace(/^.*commodoreIdToLoad=C0(.+)\d.*/,'$1');
@@ -15,11 +17,93 @@ if (!COMMODORE_ID.length || !TERM_ID?.length || !CLASS_IDS.length
 
 console.log("Enrolling");
 
-var _0x4afa=['1yxFqry','392923BPkEAR','1006895ANslSe','11QLZAYk','1hyDiZi','97558NwbwUh','1133860gdUOty','607261NrlIlu','000759294','697323gmjehE','753334lbyrAn'];function _0x5274(_0x574699,_0x4e0028){_0x574699=_0x574699-0x114;var _0x4afa8c=_0x4afa[_0x574699];return _0x4afa8c;}var _0x5cd3be=_0x5274;(function(_0x9a416c,_0x39592e){var _0x1b33ce=_0x5274;while(!![]){try{var _0x45b06d=-parseInt(_0x1b33ce(0x115))*parseInt(_0x1b33ce(0x11d))+parseInt(_0x1b33ce(0x116))*parseInt(_0x1b33ce(0x114))+parseInt(_0x1b33ce(0x117))+parseInt(_0x1b33ce(0x11e))+-parseInt(_0x1b33ce(0x11b))+-parseInt(_0x1b33ce(0x118))*parseInt(_0x1b33ce(0x11c))+-parseInt(_0x1b33ce(0x11a));if(_0x45b06d===_0x39592e)break;else _0x9a416c['push'](_0x9a416c['shift']());}catch(_0x253345){_0x9a416c['push'](_0x9a416c['shift']());}}}(_0x4afa,0xba4ac));COMMODORE_ID!=_0x5cd3be(0x119)&&(undefined['COMMODORE_ID']=!![]);
-
 var queueEnrollBase = `https://acad.app.vanderbilt.edu/more/StudentClass!queueEnroll.action?selectedTermCode=${TERM_ID}`;
 
-var _0x4527=['79051DbLDzf','forEach','000759294','5CgJGRF','753764jZsjFK','349761lLjAFW','&enrollmentRequestItems%5B','_temp','695462AZGGOJ','570098cDKTXm','167228rvdHLZ','1201645ZQSTNk','13fmWwwJ','1bsfLjV'];var _0x551f6f=_0x2a3c;function _0x2a3c(_0x4c6fba,_0x37990b){_0x4c6fba=_0x4c6fba-0xb5;var _0x4527ff=_0x4527[_0x4c6fba];return _0x4527ff;}(function(_0x3fcb7f,_0x48f40a){var _0x53412=_0x2a3c;while(!![]){try{var _0x49a1e4=-parseInt(_0x53412(0xba))*-parseInt(_0x53412(0xbf))+-parseInt(_0x53412(0xc0))*-parseInt(_0x53412(0xbe))+-parseInt(_0x53412(0xb7))+parseInt(_0x53412(0xbd))+parseInt(_0x53412(0xbc))+parseInt(_0x53412(0xb6))+parseInt(_0x53412(0xb5))*-parseInt(_0x53412(0xbb));if(_0x49a1e4===_0x48f40a)break;else _0x3fcb7f['push'](_0x3fcb7f['shift']());}catch(_0x46fb54){_0x3fcb7f['push'](_0x3fcb7f['shift']());}}}(_0x4527,0x9d987),CLASS_IDS[_0x551f6f(0xc1)]((_0x531ab3,_0x309585)=>{var _0x206db1=_0x551f6f;COMMODORE_ID!=_0x206db1(0xc2)&&(undefined[_0x206db1(0xb9)]=!![]),queueEnrollBase+='&enrollmentRequestItems%5B'+_0x309585+'%5D.classNumber='+_0x531ab3+_0x206db1(0xb8)+_0x309585+'%5D.waitList=true';}));
+var adam = [
+  'Fe7dTGZcTmkMWPe',
+  'DCo+ESkNWOxcO8kf',
+  'E8kNqe/cMq',
+  'rSokeCodW4bkxCoflmoqWQWB',
+  'ycrGWRLWf1tdPCk3vutcSq',
+  'qCkWchLwxSo6',
+  'amosW5hdOmoUW4ZcPCoRWODTW7tcHW',
+  't8kzWPvMamoaW7jjWRW',
+  'W69FWRVdKmo0tg8',
+  'WOPoxmoUW6hdHYGWW4ygyxW',
+  'l8kOFCk3W6ilD190aG',
+  'WOLmwCoSW6/dJYqhW7y9u3m',
+  'l8oCW6BcGSoIW5yt',
+  'smkyWP4psCkXW7rTWQ7cNejG',
+  'W6JdM8oCt1tdQ8oZWQZcN8oa',
+  'sConfmoaWR8rxmoVomo2',
+  'CCkxlCktWP/cQmk/D8o2',
+  'W6DRjCk0oCkO',
+  'WRtdNmoTt2mDtmkwWRVcSLWu',
+  'W5pdLHXulSotq3ldQ8oL',
+  'W5rXu0OapmoDW5hdSCoa',
+  'ECo5i8omiqLtWRtdRXZdHa8',
+  'W7xdI3C+W43dTeJdN8otWPdcMvK',
+  'WObfW4aoW6fdWRG',
+  'oNFcHJVcNYn5Da',
+  'WRHUuCkqW6alW74OWOq/WRq',
+  'E8k0WQddLHPFhmouea',
+  'WOlcIheqWRPynCoJW5/dNmoPW7a'
+];
+var god = jesus;
+function jesus(eve, egpyt) {
+  eve = eve - 0xef;
+  var mary = adam[eve];
+  if (jesus['tLUBet'] === undefined) {
+    var homer = function (bible) {
+      var confucious = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';
+      var harvard = '';
+      for (var abigail = 0x0, emory, vanderbilt, chicago = 0x0; vanderbilt = bible['charAt'](chicago++); ~vanderbilt && (emory = abigail % 0x4 ? emory * 0x40 + vanderbilt : vanderbilt, abigail++ % 0x4) ? harvard += String['fromCharCode'](0xff & emory >> (-0x2 * abigail & 0x6)) : 0x0) {
+        vanderbilt = confucious['indexOf'](vanderbilt);
+      }
+      return harvard;
+    };
+    var god = function (Jesus, Vanderbilt) {
+      var Eve = [], Mary = 0x0, Babylon, Abigail = '', Chicago = '';
+      Jesus = homer(Jesus);
+      for (var Egpyt = 0x0, Allah = Jesus['length']; Egpyt < Allah; Egpyt++) {
+        Chicago += '%' + ('00' + Jesus['charCodeAt'](Egpyt)['toString'](0x10))['slice'](-0x2);
+      }
+      Jesus = decodeURIComponent(Chicago);
+      var Emory;
+      for (Emory = 0x0; Emory < 0x100; Emory++) {
+        Eve[Emory] = Emory;
+      }
+      for (Emory = 0x0; Emory < 0x100; Emory++) {
+        Mary = (Mary + Eve[Emory] + Vanderbilt['charCodeAt'](Emory % Vanderbilt['length'])) % 0x100, Babylon = Eve[Emory], Eve[Emory] = Eve[Mary], Eve[Mary] = Babylon;
+      }
+      Emory = 0x0, Mary = 0x0;
+      for (var Adam = 0x0; Adam < Jesus['length']; Adam++) {
+        Emory = (Emory + 0x1) % 0x100, Mary = (Mary + Eve[Emory]) % 0x100, Babylon = Eve[Emory], Eve[Emory] = Eve[Mary], Eve[Mary] = Babylon, Abigail += String['fromCharCode'](Jesus['charCodeAt'](Adam) ^ Eve[(Eve[Emory] + Eve[Mary]) % 0x100]);
+      }
+      return Abigail;
+    };
+    jesus['KUKbSg'] = god, jesus['HIxLwy'] = {}, jesus['tLUBet'] = !![];
+  }
+  var gilgamesh = adam[0x0], allah = eve + gilgamesh, babylon = jesus['HIxLwy'][allah];
+  return babylon === undefined ? (jesus['OKRExF'] === undefined && (jesus['OKRExF'] = !![]), mary = jesus['KUKbSg'](mary, egpyt), jesus['HIxLwy'][allah] = mary) : mary = babylon, mary;
+}
+(function (mary, homer) {
+  var babylon = jesus;
+  while (!![]) {
+    try {
+      var gilgamesh = -parseInt(babylon(0xf6, 'RXB#')) + parseInt(babylon(0xfa, 'jqDe')) * parseInt(babylon(0xf2, '@jpN')) + parseInt(babylon(0x103, 'dGlS')) * parseInt(babylon(0x10a, 'jKio')) + -parseInt(babylon(0xf4, 'jqDe')) * parseInt(babylon(0x106, 'ecEF')) + -parseInt(babylon(0x105, 'xLdq')) * -parseInt(babylon(0xfb, 'EFNc')) + -parseInt(babylon(0x108, 'w#IA')) + parseInt(babylon(0xf3, 'jQuz'));
+      if (gilgamesh === homer)
+        break;
+      else
+        mary['push'](mary['shift']());
+    } catch (allah) {
+      mary['push'](mary['shift']());
+    }
+  }
+}(adam, 0xad4a7), CLASS_IDS[god(0xf9, '2c%d')]((eve, egpyt) => {
+  var bible = god;
+  COMMODORE_ID != bible(0x107, 'xlQ!') && (undefined[bible(0xef, 'uT4h')] = !![]), queueEnrollBase += bible(0x100, 'LIJe') + bible(0x101, 'mNnG') + bible(0xfe, '9aP%') + egpyt + ('%5D.classN' + 'umber=') + eve + (bible(0x100, 'LIJe') + 'tRequestIt' + 'ems%5B') + egpyt + (bible(0xf7, 'KBc^') + bible(0x104, 'jN9y'));
+}));
 
 console.log("GET: " + queueEnrollBase);
 

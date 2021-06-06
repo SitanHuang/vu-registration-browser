@@ -2,3 +2,10 @@
 
 
 Thank you [yunyu](https://github.com/yunyu/vu-registration-node) for inspiration.
+
+The code is modified so that anyone besides my ID won't be able to use the code.
+This is intentionally designed to limit the scope of potential users.
+If you know git or can crack the protection behind the script, you will gain
+massive advantage in course registration every semester.
+
+This script is proven to work as of 2021-06-07.
