@@ -8,4 +8,4 @@ This is intentionally designed to limit the scope of potential users.
 If you know git or can crack the protection behind the script, you will gain
 massive advantage in course registration every semester.
 
-This script is proven to work as of 2021-06-07.
+This script is proven to work as of 2021-10-21.
